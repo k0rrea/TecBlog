@@ -18,7 +18,11 @@ O TecBlog é uma página estática de um blog de tecnologia, criada para pratica
 
 Os links fazem parte da apresentação visual; **as páginas de categorias e postagens não foram implementadas**.
 
-## ▶️ Como executar
+## ▶️ Como visualizar
+
+Você pode visualizar o projeto clicando **[aqui](https://k0rrea.github.io/TecBlog/)**, ou abrindo o link abaixo da descrição do projeto.
+
+Caso prefira, você também pode executar o projeto localmente:
 
 1. Baixe ou clone este repositório.
 2. Abra a pasta do projeto no VS Code.
